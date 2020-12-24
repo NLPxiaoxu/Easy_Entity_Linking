@@ -29,6 +29,9 @@ Similarity---相似句识别模型，这部分相对较复杂一点。
 
 数据来自2019年百度中文短文本实体链指大赛
 
+链接：https://pan.baidu.com/s/1nuXnTJHZVA-Tn8J4buUKeA 
+提取码：0y32 
+
 
 
 # 模型相关库
